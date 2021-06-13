@@ -1,0 +1,18 @@
+.all-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.my1{
+    margin: 20px 0;
+}
+.text-center{
+   text-align:center ;
+}
+.my2{
+    margin: 4px 0;
+}
+/* .card-items:hover{
+    box-shadow: blue;
+    flex-grow:30px
+} */
